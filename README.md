@@ -1,4 +1,4 @@
-## E-commerce: Identificando Perfis de Consumidores
+## Identificando Perfis de Consumidores no E-commerce
 Este projeto tem como objetivo analisar o comportamento dos consumidores de um e-commerce para identificar perfis de clientes, segmentá-los com base em suas compras e fornecer insights valiosos que possam personalizar ofertas e aumentar a retenção.
 
 Apresentação detalhada: [Acesse aqui o PDF com os resultados](https://docs.google.com/presentation/d/1d22jGBVGVDj41pZZXErXC9IABqJrec9PzRcOC8_r-4Y/edit#slide=id.p)
