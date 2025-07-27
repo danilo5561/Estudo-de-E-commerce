@@ -96,4 +96,4 @@ Decisões baseadas em métricas como LTV e clusters de clientes.
 Python (Pandas, Matplotlib, Seaborn, Scikit-Learn)
 PowerPoint para apresentação.
 
-#### 📫 Contato: [Danilo](https://www.linkedin.com/in/danilojosedelara/) | LinkedIn
+#### Contato: [Danilo](https://www.linkedin.com/in/danilojosedelara/) | LinkedIn
